@@ -17,11 +17,11 @@ Can users perform critical tasks without this feature?
 3. Estimating Effort (Story Points & Sprint Planning)
 Agile teams often use Fibonacci Story Points (1, 2, 3, 5, 8, etc.) for effort estimation. Since this is a solo project, estimating complexity without prior sprint data was tricky.
 
-Simple UI tasks (e.g., "View Work Hours") were 2 points.
+Simple UI tasks were 2 points.
 
-Medium complexity tasks (e.g., "Log Work Hours") were 3 points.
+Medium complexity tasks were 3 points.
 
-Backend-heavy tasks (e.g., "Export Payroll") were 5 points due to dependencies.
+Backend-heavy tasks were 5 points due to dependencies.
 
 Predicting actual development time for user authentication, database design, and payroll integration required careful dependency mapping.
 
