@@ -2,7 +2,7 @@
 
 ## 🧩 Repository Pattern
 
-We implemented a **generic `Repository<T, ID>` interface** to define standard CRUD operations:
+Implemented a **generic `Repository<T, ID>` interface** to define standard CRUD operations:
 - `save(entity)`
 - `find_by_id(id)`
 - `find_all()`
@@ -12,7 +12,7 @@ Each domain entity (Employee, TimeEntry, Schedule) has its own specific reposito
 
 ## 🛠 In-Memory Implementation
 
-We created **in-memory repositories** that use Python dictionaries for storage:
+Created **in-memory repositories** that use Python dictionaries for storage:
 - `InMemoryEmployeeRepository`
 - `InMemoryTimeEntryRepository`
 - `InMemoryScheduleRepository`
