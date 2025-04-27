@@ -3,7 +3,6 @@
 
 # 📄 2. `CHANGELOG.md` (Progress Log)
 
-You also need a `CHANGELOG.md` that tracks what was done:
 
 ```markdown
 # Changelog
